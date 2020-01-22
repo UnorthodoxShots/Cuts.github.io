@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	font-family:Arial, sans-serif,monospace;
+	}
+
+#Container {
+	background-color:black;
+	width: 320px;
+	height: 568px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image:url("C:/Users/Dell/Desktop/Web-site/images/dark.jpg");
+	background-size:cover;
+
+}
+
+#header {
+}
+
+#body { 
+	background-color:;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	overflow: auto;
+	}
+#body h1{
+	font-Size:56px;
+	Color:#ffffff;
+	
+}
+#body h2
+{ font-Size:44px;
+	Color:#ffffff;
+	}
+}
+	
+#footer {
+	Color:blue;
+ 	background-color:#999999;
+ 	Text-align:right;
+	margin-top:0px; 
+	border: 2px solid black;
+	background-image:url("C:/Users/Dell/Desktop/Web-site/images/naut2.jpg");
+	background-size:cover;
+	}
