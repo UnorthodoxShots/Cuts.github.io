@@ -22,6 +22,8 @@ body {
 	margin-right: auto;
 	text-align:center;
 	overflow: auto;
+	background-image:url("https://raw.githubusercontent.com/UnorthodoxShots/Cuts.github.io/master/pictures/dark.jpg");
+	background-size:cover;
 	}
 #body h1{
 	font-Size:56px;
